@@ -10,7 +10,7 @@ div {
 }
 
 div:hover {
-  width: 200px;
+  height: 200px;
 }
 
 #header {
